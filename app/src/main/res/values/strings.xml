@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFirewall</string>
+
+    <string name="title_root">root</string>
+    <string name="title_mediaserver">mediaserver</string>
+    <string name="title_nobody">nobody</string>
+
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_started">Enforcing rules</string>
+    <string name="msg_packages">%1$d allowed, %2$d blocked</string>
+    <string name="msg_hosts">%1$d allowed, %2$d blocked, %3$d hosts</string>
+
+    <string name="fingerprint" translatable="false">ef46f813d2c8a064d72c936b9b96d1cccc989378</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
